@@ -1,3 +1,9 @@
+"""
+Holds logic for generating an ISO testing grid for a metrology system.
+Point data is from the required grid, then the user can select what start point
+they want. This will then adjust the grid occordingly. 
+"""
+
 # point data
 point_data =[
 ("spec_b1",   0.000000,  0.000000,  0.000000),
